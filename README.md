@@ -6,4 +6,4 @@ The data used in this project is from the The Genetic Frontotemporal dementia In
 
 You can find more information on GENFI [here](https://www.genfi.org/).
 
-This folder contains code used to clean and organize the data for analysis.
+Here you will find code used to clean and organize the data in preparation for analysis.
