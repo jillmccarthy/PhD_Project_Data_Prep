@@ -350,6 +350,6 @@ genfi['ASL'] = ASLs['ASL']
 #%%
 
 #save genfi to an excel file
-#genfi.to_excel('/export02/data/GENFI/spreadsheets/genfi_table_py.xlsx', index=False)
+genfi.to_excel('/export02/data/GENFI/spreadsheets/genfi_table_py.xlsx', index=False)
 
 
